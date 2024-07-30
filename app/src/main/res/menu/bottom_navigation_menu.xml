@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_log_workout"
+        android:icon="@drawable/ic_log_workout"
+        android:title="Log Workout"/>
+    <item
+        android:id="@+id/nav_view_progress"
+        android:icon="@drawable/ic_view_progress"
+        android:title="View Progress"/>
+</menu>
